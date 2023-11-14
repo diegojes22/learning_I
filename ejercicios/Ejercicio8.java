@@ -13,7 +13,7 @@ import java.util.Scanner;
  * Instituto Tecnológico de La Piedad
  * Ingeniería en Sistemas Computacionales
  * 
- * Fecha de elaboración: 12/09/2020
+ * Fecha de elaboración: 12/11/2020
  * 
  * Problema:
  * Diseñe un programa con una matriz de 10x10, y lee valores de tipo flotante para guardar en la

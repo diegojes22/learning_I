@@ -13,7 +13,7 @@ import java.util.Scanner;
  * Instituto Tecnológico de La Piedad
  * Ingeniería en Sistemas Computacionales
  * 
- * Fecha de elaboración: 12/09/2020
+ * Fecha de elaboración: 09/11/2020
  * 
  * Problema:
  * La abarrotera "La Surtidora" cuenta con 7 sucursales distribuidas en todo el estado; y nesesitan analizar
