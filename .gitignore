@@ -1,0 +1,3 @@
+# Ignorar los compilados de JAVA
+*.class 
+*.jar
