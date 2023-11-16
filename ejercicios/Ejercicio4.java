@@ -43,6 +43,15 @@ public class Ejercicio4
         int[][] matrix = new int[rows][columns];
         int[] array = new int[rows];
 
+        // Tamaño de la matriz
+        System.out.println("Ingresa el tamaño de la matriz");
+        do {
+            System.out.print("\tIngresa el número de filas: ");
+            rows = input.nextInt();
+            System.out.print("\tIngresa el número de columnas: ");
+            columns = input.nextInt();
+        } while((rows < 1 || rows > 10) && (columns < 1 || columns > 5));
+
         // Pedir datos
         System.out.println("Ingresa los datos de la matriz");
         for(i = 0; i < rows; i++) {
